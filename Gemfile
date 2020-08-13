@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem "rails", "3.0.3"
+gem "rails", "3.2.17"
 gem "responders", "~> 0.6.0"
 gem "has_scope", "~> 0.5.0"
 gem "mocha"
